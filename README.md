@@ -41,6 +41,7 @@ java Main
 
 ### Insertar al inicio
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -56,10 +57,11 @@ Seleccione una opción: 1
 Ingrese el dato a insertar al inicio: 2002
 Dato insertado correctamente.
 Lista: 2002 <-> (circular -> 2002)
-
+```
 
 ## Insertar al final
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -75,10 +77,11 @@ Seleccione una opción: 2
 Ingrese el dato a insertar al final: 94820
 Dato insertado correctamente.
 Lista: 2002 <-> 94820 <-> (circular -> 2002)
-
+```
 
 ## Eliminar al inicio
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -93,10 +96,11 @@ Lista: 2002 <-> 94820 <-> (circular -> 2002)
 Seleccione una opción: 3
 Estado actual de la lista:
 Lista: 94820 <-> (circular -> 94820)
-
+```
 
 ## Eliminar al final
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -111,10 +115,11 @@ Lista: 94820 <-> (circular -> 94820)
 Seleccione una opción: 4
 Estado actual de la lista:
 La lista está vacía
-
+```
 
 ## Eliminar al inicio cuando la lista está vacía
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -130,10 +135,11 @@ Seleccione una opción: 3
 Error: Lista vacía
 Estado actual de la lista:
 La lista está vacía
-
+```
 
 ## Eliminar al final cuando la lista está vacía
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -149,14 +155,15 @@ Seleccione una opción: 4
 Error: Lista vacía
 Estado actual de la lista:
 La lista está vacía
-
+```
 
 ## Escenario 2: Búsqueda e impresión de la lista
 
 ## Nota: Las siguientes pruebas corresponden a otra ejecución del programa, con la lista previamente cargada.
 
-### Buscar elemento encontrado
+## Buscar elemento encontrado
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -171,10 +178,11 @@ La lista está vacía
 Seleccione una opción: 5
 Ingrese el elemento a buscar: 242342
 Elemento encontrado.
-
+```
 
 ## Buscar elemento no encontrado
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -189,10 +197,11 @@ Elemento encontrado.
 Seleccione una opción: 5
 Ingrese el elemento a buscar: 23
 Elemento no encontrado.
-
+```
 
 ## Imprimir lista
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -206,10 +215,11 @@ Elemento no encontrado.
 ========================================
 Seleccione una opción: 6
 Lista: 32923 <-> 242342 <-> (circular -> 32923)
-
+```
 
 ## Salir del programa
 
+```text
 ========================================
  LISTA DOBLEMENTE ENLAZADA CIRCULAR
 ========================================
@@ -223,6 +233,7 @@ Lista: 32923 <-> 242342 <-> (circular -> 32923)
 ========================================
 Seleccione una opción: 7
 Saliendo del programa...
+```
 
 ## Estructura del Proyecto
 
